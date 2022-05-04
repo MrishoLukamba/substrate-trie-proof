@@ -1,0 +1,9 @@
+/home/mrisholukamba/TrieTest/block_trie/target/debug/deps/parity_util_mem-08fff925533830bd.rmeta: /home/mrisholukamba/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.11.0/src/lib.rs /home/mrisholukamba/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.11.0/src/allocators.rs /home/mrisholukamba/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.11.0/src/malloc_size.rs /home/mrisholukamba/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.11.0/src/primitives_impls.rs /home/mrisholukamba/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.11.0/src/memory_stats_noop.rs
+
+/home/mrisholukamba/TrieTest/block_trie/target/debug/deps/parity_util_mem-08fff925533830bd.d: /home/mrisholukamba/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.11.0/src/lib.rs /home/mrisholukamba/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.11.0/src/allocators.rs /home/mrisholukamba/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.11.0/src/malloc_size.rs /home/mrisholukamba/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.11.0/src/primitives_impls.rs /home/mrisholukamba/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.11.0/src/memory_stats_noop.rs
+
+/home/mrisholukamba/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.11.0/src/lib.rs:
+/home/mrisholukamba/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.11.0/src/allocators.rs:
+/home/mrisholukamba/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.11.0/src/malloc_size.rs:
+/home/mrisholukamba/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.11.0/src/primitives_impls.rs:
+/home/mrisholukamba/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.11.0/src/memory_stats_noop.rs:
